@@ -38,7 +38,7 @@ Nano-OS is a simple microcontroller operating system written in C++. The OS uses
 ### Firmware
 - Release 1.0.0
 - Release 1.1.0 
-- Release 1.2.0 (Latest)
+- Release 1.2.0 (Latest, Recommended)
 ### OS
 - Release 1.0.0
-- Release 1.1.0 (Latest)
+- Release 1.1.0 (Latest, Recommended)
