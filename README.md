@@ -1,5 +1,5 @@
 # Nano-OS
-Nano-OS is a simple microcontroller operating system written in C++. The OS uses Arduino as memory and [PCPU-NANO1](https://github.com/Pepe-57/pcpu-nano1) as the core for calculations. Nano-os is successor of [Esp-cf](https://github.com/Pepe-57/esp-cf). More features will be added in the future.
+Nano-OS is a simple microcontroller operating system written in C++. The OS uses Arduino as memory and [PCPU-NANO1](https://github.com/Pepe-57/pcpu-nano1) as the core for calculations. More features will be added in the future. It's recommended to download from [releases](https://github.com/Pepe-57/nano-os/releases).
 ## Requirements
 - 1x Pcpu-Nano1(used for most of all calculations)
 - Arduino or other microcontroller board
