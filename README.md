@@ -26,7 +26,7 @@ Nano-OS is a simple microcontroller operating system written in C++. The OS uses
 
 ## Installation steps(old)
 1. Download and install Arduino IDE
-2. Download [Nano-os](https://github.com/Pepe-57/nano-os)
+2. Download [Nano-os]([https://github.com/Pepe-57/nano-os](https://github.com/Pepe-57/nano-os/releases/tag/1.1.0))
 3. Extract the archive to /Documents/Arduino/libraries
 4. Open Arduino IDE and click File -> Examples -> NanoOS -> nano_os
 5. Select your microcontroller and upload the sketch
